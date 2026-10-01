@@ -328,7 +328,7 @@
       "has_french": false
     },
     "ALT_ALIZE_B_BR_39_R1": {
-      "count": 0,
+      "count": 1,
       "has_french": false
     },
     "ALT_ALIZE_B_BR_40_C": {
@@ -772,7 +772,7 @@
       "has_french": false
     },
     "ALT_ALIZE_B_MU_40_R2": {
-      "count": 0,
+      "count": 3,
       "has_french": false
     },
     "ALT_ALIZE_B_MU_40_R1": {
@@ -1404,7 +1404,7 @@
       "has_french": false
     },
     "ALT_BISE_B_AX_55_R2": {
-      "count": 0,
+      "count": 3,
       "has_french": false
     },
     "ALT_BISE_B_AX_55_R1": {
@@ -1776,7 +1776,7 @@
       "has_french": false
     },
     "ALT_BISE_B_LY_50_R2": {
-      "count": 0,
+      "count": 3,
       "has_french": false
     },
     "ALT_BISE_B_LY_50_R1": {
@@ -1908,7 +1908,7 @@
       "has_french": false
     },
     "ALT_BISE_B_LY_59_R2": {
-      "count": 0,
+      "count": 2,
       "has_french": false
     },
     "ALT_BISE_B_LY_59_R1": {
@@ -2940,8 +2940,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_29_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CORE_B_AX_29_R1": {
       "count": 0,
@@ -3088,8 +3088,8 @@
       "has_french": false
     },
     "ALT_CORE_B_BR_06_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CORE_B_BR_09_C": {
       "count": 4,
@@ -3100,8 +3100,8 @@
       "has_french": false
     },
     "ALT_CORE_B_BR_09_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CORE_B_BR_14_C": {
       "count": 4,
@@ -3208,8 +3208,8 @@
       "has_french": false
     },
     "ALT_CORE_B_BR_21_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CORE_B_BR_20_C": {
       "count": 4,
@@ -3244,8 +3244,8 @@
       "has_french": false
     },
     "ALT_CORE_B_BR_24_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CORE_B_BR_25_C": {
       "count": 4,
@@ -4828,7 +4828,7 @@
       "has_french": true
     },
     "ALT_CYCLONE_A_BR_79_R1": {
-      "count": 0,
+      "count": 2,
       "has_french": false
     },
     "ALT_CYCLONE_A_BR_79_R2": {
@@ -4880,7 +4880,7 @@
       "has_french": false
     },
     "ALT_CYCLONE_A_YZ_76_R2": {
-      "count": 0,
+      "count": 2,
       "has_french": false
     },
     "ALT_CYCLONE_B_AX_65_C": {
@@ -5080,8 +5080,8 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_AX_81_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 2,
+      "has_french": true
     },
     "ALT_CYCLONE_B_AX_81_R1": {
       "count": 0,
@@ -5208,8 +5208,8 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_BR_69_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CYCLONE_B_BR_68_C": {
       "count": 4,
@@ -5220,8 +5220,8 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_BR_68_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CYCLONE_B_BR_71_C": {
       "count": 4,
@@ -5244,8 +5244,8 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_BR_73_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CYCLONE_B_BR_72_C": {
       "count": 4,
@@ -5304,8 +5304,8 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_BR_76_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CYCLONE_A_BR_77_C": {
       "count": 4,
@@ -5376,7 +5376,7 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_BR_82_R1": {
-      "count": 0,
+      "count": 4,
       "has_french": false
     },
     "ALT_CYCLONE_B_BR_81_C": {
@@ -5400,8 +5400,8 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_LY_66_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CYCLONE_B_LY_66_R1": {
       "count": 0,
@@ -5484,7 +5484,7 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_LY_72_R2": {
-      "count": 0,
+      "count": 4,
       "has_french": false
     },
     "ALT_CYCLONE_B_LY_72_R1": {
@@ -5628,8 +5628,8 @@
       "has_french": false
     },
     "ALT_CYCLONE_B_LY_81_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_CYCLONE_B_LY_81_R1": {
       "count": 0,
@@ -6240,8 +6240,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_AX_88_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 2,
+      "has_french": true
     },
     "ALT_DUSTER_B_AX_88_R1": {
       "count": 0,
@@ -6312,8 +6312,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_AX_93_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 2,
+      "has_french": true
     },
     "ALT_DUSTER_B_AX_93_R1": {
       "count": 0,
@@ -6460,8 +6460,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_BR_88_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_DUSTER_B_BR_93_C": {
       "count": 4,
@@ -6521,7 +6521,7 @@
     },
     "ALT_DUSTER_B_BR_91_R1": {
       "count": 0,
-      "has_french": false
+      "has_french": true
     },
     "ALT_DUSTER_B_BR_92_C": {
       "count": 4,
@@ -6532,8 +6532,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_BR_92_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 1,
+      "has_french": true
     },
     "ALT_DUSTER_B_BR_97_C": {
       "count": 4,
@@ -6556,8 +6556,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_BR_89_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_DUSTER_B_BR_101_C": {
       "count": 4,
@@ -6568,8 +6568,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_BR_101_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_DUSTER_B_BR_94_C": {
       "count": 4,
@@ -6592,8 +6592,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_BR_96_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_DUSTER_B_BR_99_C": {
       "count": 4,
@@ -6604,8 +6604,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_BR_99_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_DUSTER_B_BR_100_C": {
       "count": 4,
@@ -6628,8 +6628,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_BR_102_R1": {
-      "count": 0,
-      "has_french": false
+      "count": 2,
+      "has_french": true
     },
     "ALT_DUSTER_A_LY_65_C": {
       "count": 0,
@@ -6720,8 +6720,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_LY_93_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_DUSTER_B_LY_93_R1": {
       "count": 0,
@@ -6912,8 +6912,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_MU_93_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 1,
+      "has_french": true
     },
     "ALT_DUSTER_B_MU_93_R1": {
       "count": 0,
@@ -6936,8 +6936,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_MU_91_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 3,
+      "has_french": true
     },
     "ALT_DUSTER_B_MU_91_R1": {
       "count": 0,
@@ -7380,8 +7380,8 @@
       "has_french": false
     },
     "ALT_DUSTER_B_YZ_95_R2": {
-      "count": 0,
-      "has_french": false
+      "count": 2,
+      "has_french": true
     },
     "ALT_DUSTER_B_YZ_95_R1": {
       "count": 0,
