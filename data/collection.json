@@ -2612,32 +2612,32 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_01_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_P_AX_01_C": {
       "count": 0,
       "has_french": false
     },
     "ALT_CORE_B_AX_03_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_P_AX_03_C": {
       "count": 0,
       "has_french": false
     },
     "ALT_CORE_B_AX_02_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_P_AX_02_C": {
       "count": 0,
       "has_french": false
     },
     "ALT_CORE_B_AX_07_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_07_R2": {
       "count": 0,
@@ -2648,8 +2648,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_08_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_08_R2": {
       "count": 0,
@@ -2660,8 +2660,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_13_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_13_R2": {
       "count": 0,
@@ -2672,8 +2672,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_14_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_14_R2": {
       "count": 0,
@@ -2684,8 +2684,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_05_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_05_R2": {
       "count": 0,
@@ -2696,8 +2696,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_10_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_10_R2": {
       "count": 0,
@@ -2708,8 +2708,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_04_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_04_R2": {
       "count": 0,
@@ -2720,8 +2720,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_06_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_06_R2": {
       "count": 0,
@@ -2732,8 +2732,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_11_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_11_R2": {
       "count": 0,
@@ -2744,8 +2744,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_16_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_16_R2": {
       "count": 0,
@@ -2756,8 +2756,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_12_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_12_R2": {
       "count": 0,
@@ -2768,8 +2768,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_09_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_09_R2": {
       "count": 0,
@@ -2780,8 +2780,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_15_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_15_R2": {
       "count": 0,
@@ -2792,8 +2792,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_17_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_17_R2": {
       "count": 0,
@@ -2804,8 +2804,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_18_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_18_R2": {
       "count": 0,
@@ -2816,8 +2816,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_19_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_19_R2": {
       "count": 0,
@@ -2828,8 +2828,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_20_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_20_R2": {
       "count": 0,
@@ -2844,8 +2844,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_22_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_A_AX_22_R2": {
       "count": 0,
@@ -2864,8 +2864,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_21_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_21_R2": {
       "count": 0,
@@ -2876,8 +2876,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_23_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_23_R2": {
       "count": 0,
@@ -2888,8 +2888,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_26_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_26_R2": {
       "count": 0,
@@ -2900,8 +2900,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_28_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_28_R2": {
       "count": 0,
@@ -2912,8 +2912,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_24_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_24_R2": {
       "count": 0,
@@ -2924,8 +2924,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_27_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_27_R2": {
       "count": 0,
@@ -2936,8 +2936,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_29_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_29_R2": {
       "count": 3,
@@ -2948,8 +2948,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_25_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_25_R2": {
       "count": 0,
@@ -2960,8 +2960,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_30_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_B_AX_30_R2": {
       "count": 0,
@@ -4776,8 +4776,8 @@
       "has_french": false
     },
     "ALT_CORE_B_AX_31_C": {
-      "count": 0,
-      "has_french": false
+      "count": 4,
+      "has_french": true
     },
     "ALT_CORE_A_BR_31_C": {
       "count": 4,
